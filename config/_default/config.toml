@@ -1,0 +1,6 @@
+theme = "blowfish"
+baseURL = "http://localhost:1313"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+paginate = 10
+outputs.home = ["HTML", "RSS", "JSON"]

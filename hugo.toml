@@ -1,0 +1,9 @@
+baseURL = 'https://localhost:1313/'
+languageCode = 'en'
+title = 'Confused'
+theme = "Blowfish"
+[services]
+[services.disqus]
+shortname = 'shadows-web'
+[params]
+author = "Confused Element"
